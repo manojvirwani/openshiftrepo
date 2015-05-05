@@ -1,0 +1,7 @@
+C:\Users\cloud\git\openshiftrepo\src\main\java\com\journaldev\mongodb\dao\MongoDBPersonDAO.java
+C:\Users\cloud\git\openshiftrepo\src\main\java\com\journaldev\mongodb\model\Person.java
+C:\Users\cloud\git\openshiftrepo\src\main\java\com\journaldev\mongodb\listener\MongoDBContextListener.java
+C:\Users\cloud\git\openshiftrepo\src\main\java\com\journaldev\mongodb\servlets\EditPersonServlet.java
+C:\Users\cloud\git\openshiftrepo\src\main\java\com\journaldev\mongodb\servlets\DeletePersonServlet.java
+C:\Users\cloud\git\openshiftrepo\src\main\java\com\journaldev\mongodb\converter\PersonConverter.java
+C:\Users\cloud\git\openshiftrepo\src\main\java\com\journaldev\mongodb\servlets\AddPersonServlet.java
